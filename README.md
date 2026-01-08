@@ -3,22 +3,27 @@
 🔐 1. WHAT AM I CURRENTLY WORKING ON?
 1.  Building automation scripts in Python for security tasks (like log analysis and vulnerability scanning).
 2. Developing a price tracker project that integrates web scraping and notifications.
+
 🤝 2.  looking to collaborate on
 1.  Open-source security tools (network scanners, log parsers, SIEM integrations).
 2.  Bug bounty / CTF projects to sharpen penetration testing skills.
 3.  Automation projects that combine Python with cybersecurity workflows.
+
 🆘 3. HELP I AM LOOKING FOR?
 1.  Guidance on advanced Python libraries for automation.
 2.  Best practices for secure coding and DevSecOps pipelines.
 3.  Mentorship or collaboration on cloud security projects (AWS, Docker, Kubernetes).
+
 📚 4. WHAT AM I CURRENTLY WORKING ON?
 1.   Intermediate-to-advanced Python (requests, BeautifulSoup, Tkinter/PyQt for GUIs).
 2.  Web application security testing (Burp Suite, OWASP Top 10).
 3.  Cloud security fundamentals (IAM, container hardening).
+
 🎉 5. FUN FACTS
 1.  I love breaking things just to see how they work — then fixing them better.
 2.  I can spend hours tweaking my desktop environment for the perfect workflow.
 3.  I enjoy solving real-world problems with small, practical coding projects.
+
 💡 6.  ASK ME ABOUT
 1.  “Ask me about Python automation in cybersecurity — I’ll show you how scripts can save hours of manual work.”
 2.  “Ask me about CTFs and penetration testing — I love sharing strategies.”
